@@ -1,0 +1,76 @@
+{
+  "name": "unterzuberwhildin739avg",
+  "version": "1.0.0",
+  "description": "Connect with previous phase of Oolong, developed in JavaScript, provides efficient mean calculations, ensuring the most precise averages for web applications and clientel databases. ",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+
+
+    "mccarncwiklinski416avg": "^1.0.0",
+    "godshallkersten940mean": "^1.0.0",
+    "pentzshimaoka960fibo": "^1.0.0",
+    "pulizzipacubas55atives": "^1.0.0",
+    "kisseeshiver511deri": "^1.0.0",
+    "unterzuberwhildin739avg": "^1.0.0",
+
+
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unterzuberwhildin739/unterzuberwhildin739avg.git"
+  },
+  "homepage": "https://github.com/unterzuberwhildin739/unterzuberwhildin739avg/blob/main/README.md",
+  "issues": "https://github.com/unterzuberwhildin739/unterzuberwhildin739avg/issues",
+  "keywords": [
+    "average",
+    "calculate",
+    "median",
+    "means",
+    "math"
+  ],
+  "author": "unterzuberwhildin739",
+  "license": "MIT"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
